@@ -2,7 +2,7 @@
 Scripts to setup Pocket Network validator node updated for RC-0.5.0  
 (Assumes fresh Ubuntu Install logged in as root without new user)
 
-# Instructions
+# Instrucciones
 ## Part 1 - Create Unix User
 1. git clone https://github.com/Perspekt/pokt-validator-configurator.git
 2. cd pokt-validator-configurator
